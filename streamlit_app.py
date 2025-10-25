@@ -2,7 +2,7 @@
 # Streamlit Crop Recommendation demo
 import streamlit as st
 import joblib, numpy as np, pandas as pd
-st.title("Crop Recommendation (Demo)")
+st.title("Crop Recommendation App")
 
 import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))  # current folder
